@@ -1,3 +1,6 @@
+'''Write a program that asks the user an amount to invest, 
+the annual interest and the number of years, and shows by screen the capital obtained in the investment.'''
+
 inversion= input("Cuanto dinero vas a invertir?  $")
 print("$" + inversion+ " USD")
 
